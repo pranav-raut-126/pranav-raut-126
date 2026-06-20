@@ -53,6 +53,13 @@
 
 ## 🚀 Featured Projects
 
+### 📰 [NewsNuggets: Hybrid News Summarization System](https://github.com/pranav-raut-126/news_summarization)
+> End-to-end news summarization Streamlit web app powered by ML & Transformer based models.
+- Custom Logistic Regression extractive summarizer with engineered NLP features
+- Fine-tuned PEGASUS Transformer for abstractive summarization
+- Real-time news retrieval using NewsAPI and Streamlit
+- Built-in summary quality indicators (Readability & Compression Analysis)
+
 
 ---
 
@@ -60,6 +67,7 @@
 
 - 🏅 Deloitte Forage — **Data Analytics Job Simulation**
 - 🏅 LetsUpgrade — **SQL Bootcamp**
+- 🏅 Microsoft - "Security, Compliance, and Identity Fundamentals (SC-900)**
 
 ---
 
